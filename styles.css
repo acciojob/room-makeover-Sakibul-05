@@ -1,2 +1,8 @@
-
 /* Your CSS Code here. */
+span.favorite-color{
+	display: inline-block;
+	background-color: lightgreen;
+	font-weight: bold;
+	width: 80px;
+	height: 25px;
+}	 
